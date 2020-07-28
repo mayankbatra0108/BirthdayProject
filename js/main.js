@@ -22,6 +22,7 @@ showTime();
 
 async function showImage(today){
     console.log(today.getHours());
+    console.log(today.getDate());
     if(today.getDate() >= 28 ) {
         document.getElementById("birthday").style.display = "block";
         await sleep(2000);
