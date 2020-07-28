@@ -23,4 +23,5 @@ body {
 canvas {
 	cursor: crosshair;
 	display: block;
+	margin-left: 30px
 }
