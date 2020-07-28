@@ -17,12 +17,12 @@ body {
 /* basic styles for black background and crosshair cursor */
 body {
 	background: #000;
-	margin: 10px;
+	margin: 100px;
 }
 
 canvas {
 	cursor: crosshair;
 	display: block;
-	margin-left: 20px
-	margin-top: 20 px
+	margin-left: 20px;
+	margin-top: 20px;
 }
